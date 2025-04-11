@@ -12,3 +12,6 @@
 - Ernesto Terra dos Santos
 - Nathan Schranck
 - Pedro Mendonça
+
+### Mini problema 
+- Retirar o fundo das imagens e colocar de forma padronizada
