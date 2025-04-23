@@ -99,7 +99,7 @@ processed_images/
 
 ### 4. Execute o script
 ```bash
-python remover_fundo.py
+python3 remover_fundo.py
 ```
 
 As imagens processadas aparecerão na pasta `processed_images/`.
