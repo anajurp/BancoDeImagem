@@ -99,7 +99,7 @@ processed_images/
 
 ### 4. Execute o script
 ```bash
-python3 remover_fundo.py
+python3 image_processing.py
 ```
 
 As imagens processadas aparecerão na pasta `processed_images/`.
@@ -113,4 +113,8 @@ As imagens processadas aparecerão na pasta `processed_images/`.
 | ![Exemplo1](![antes](https://github.com/user-attachments/assets/f1e030b6-05eb-4810-a44b-97300e321392)) | ![Exemplo2](![depois](https://github.com/user-attachments/assets/9aa9c4ae-1288-45a1-bd0b-842a66280145)) |
 
 ---
+
+## Link para apresentação
+
+[Apresentação](https://www.canva.com/design/DAGllFFulXs/VFzI56K7LazhBWRW0UmLkA/edit?utm_content=DAGllFFulXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
